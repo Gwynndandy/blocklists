@@ -1,0 +1,4 @@
+#Bad habit block list
+#I need to remove the temptation
+
+0.0.0.0 youtube.com
