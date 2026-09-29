@@ -1951,9 +1951,6 @@ ff02::3 ip6-allhosts
 # Added September 17, 2021
 0.0.0.0 mmsotk.com
 
-# Added September 24, 2021 see https://github.com/StevenBlack/hosts/issues/1764
-#0.0.0.0 discord-app.net
-
 # Added October 2, 2021 see https://github.com/StevenBlack/hosts/issues/1770
 0.0.0.0 sk.mplmnt.io
 
@@ -81179,7 +81176,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 click.comm.rcibank.co.uk
 0.0.0.0 click.crm.ba.com
 0.0.0.0 click.digital.metaquestmail.com
-# 0.0.0.0 click.discord.com
 0.0.0.0 click.e.bbcmail.co.uk
 0.0.0.0 click.e.progressive.com
 0.0.0.0 click.e.zoom.us

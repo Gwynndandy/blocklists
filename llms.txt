@@ -218,7 +218,6 @@
 ############
 0.0.0.0 midjourney.com
 0.0.0.0 www.midjourney.com
-0.0.0.0 discord.com
 0.0.0.0 cdn.midjourney.com
 
 ############
