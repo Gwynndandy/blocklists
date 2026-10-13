@@ -112,20 +112,6 @@
 0.0.0.0 support.perplexity.ai
 
 ############
-# Hugging Face Inference
-############
-0.0.0.0 api-inference.huggingface.co
-0.0.0.0 huggingface.co
-0.0.0.0 hf.co
-0.0.0.0 api.huggingface.co
-0.0.0.0 models.huggingface.co
-0.0.0.0 datasets.huggingface.co
-0.0.0.0 spaces.huggingface.co
-0.0.0.0 discuss.huggingface.co
-0.0.0.0 docs.huggingface.co
-0.0.0.0 inference-api.huggingface.co
-
-############
 # Replicate
 ############
 0.0.0.0 api.replicate.com
